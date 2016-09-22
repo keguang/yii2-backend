@@ -1,6 +1,7 @@
-yii2搭建完美后台并实现rbac权限控制
+yii2鎼缓瀹岀編鍚庡彴骞跺疄鐜皉bac鏉冮檺鎺у埗
 ===============================
-参考：http://www.manks.top/yii2-frame-rbac-template.html
+鍙傝�冿細http://www.manks.top/yii2-frame-rbac-template.html
+
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 developing complex Web applications with multiple tiers.
 
